@@ -8,5 +8,6 @@ public class FirstClass {
         System.out.println("I am working until 10.10pm");
         System.out.println("local changed");
         System.out.println("development branch");
+        System.out.println("interesting");
     }
 }
